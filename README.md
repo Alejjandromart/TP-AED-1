@@ -1,10 +1,9 @@
-# TP-AED-1
+# TP - AVALIAÇÃO DE AED-1
 
 <img src="https://github.com/user-attachments/assets/c6eda301-3d87-4e44-af7d-34876e04314a" alt="Descrição da imagem" width="150" height="150"><img src="https://github.com/user-attachments/assets/24a338b6-4a64-49f3-979a-73b645b30712" alt="logo do icet" width="150" height="150">
 
 
 
-# TP - AVALIAÇÃO DE AED-1
 
 **Curso:** Engenharia de Software  
 **Docente:** Prof. Alternei de Souza Brito
